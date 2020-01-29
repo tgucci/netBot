@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "netBot", "netBot.csproj", "{53D09850-C48C-43A1-A101-53C39CAC1A7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53D09850-C48C-43A1-A101-53C39CAC1A7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53D09850-C48C-43A1-A101-53C39CAC1A7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53D09850-C48C-43A1-A101-53C39CAC1A7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53D09850-C48C-43A1-A101-53C39CAC1A7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19E5FA9A-89F5-475A-8B97-21BD6F5591E3}
+	EndGlobalSection
+EndGlobal
